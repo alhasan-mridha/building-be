@@ -1,2 +1,2 @@
 # Project Roadmap
-- Step 1: OpenResty API Gateway — see `docs/step-1-api-gateway.md`
+- Step 1: OpenResty API Gateway — see [hello-api-gateway](./docs/step-1-hello-api-gateway.md)
